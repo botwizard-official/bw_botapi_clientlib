@@ -1,0 +1,20 @@
+{
+    "name": "botwizard/botapi_clientlib",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "description": "botapi_clientlib",
+    "authors": [
+        {
+            "name": "botwizard",
+            "email": "admin@botwizard.net"
+        }
+    ],
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "BotapiClient\\": "app"
+        }
+    }
+}
